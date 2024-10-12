@@ -1,0 +1,10 @@
+underthesea
+emoji
+emot --upgrade
+autocorrect
+py_vncorenlp
+transformers
+tokenizers
+nltk
+pandas
+seaborn
